@@ -35414,5 +35414,13 @@
     "sampleFiles": {
       "bobcat-redirects": "libguides/bobcat-redirects/permalink--f--ci13eu--nyu_aleph007463675.html"
     }
+  },
+  "/permalink/f/ci13eu/nyu_aleph001542291": {
+    "key": "permalink--f--ci13eu--nyu_aleph001542291",
+    "testCaseGroup": "libguides",
+    "fetchTimestamp": "12/7/2023, 12:54:27 PM",
+    "sampleFiles": {
+      "bobcat-redirects": "libguides/bobcat-redirects/permalink--f--ci13eu--nyu_aleph001542291.html"
+    }
   }
 }
