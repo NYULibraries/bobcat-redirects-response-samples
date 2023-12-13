@@ -1,0 +1,650 @@
+{
+  "/permalink/f/ci13eu/nyu_aleph004466573": {
+    "key": "permalink--f--ci13eu--nyu_aleph004466573",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 10:16:57 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph004466573.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph004466574": {
+    "key": "permalink--f--ci13eu--nyu_aleph004466574",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 10:17:03 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph004466574.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph004471176": {
+    "key": "permalink--f--ci13eu--nyu_aleph004471176",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 10:17:05 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph004471176.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph004473414": {
+    "key": "permalink--f--ci13eu--nyu_aleph004473414",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 10:17:07 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph004473414.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph004485254": {
+    "key": "permalink--f--ci13eu--nyu_aleph004485254",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 10:17:08 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph004485254.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph004801053": {
+    "key": "permalink--f--ci13eu--nyu_aleph004801053",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 11:05:22 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph004801053.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph004859714": {
+    "key": "permalink--f--ci13eu--nyu_aleph004859714",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 11:29:29 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph004859714.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph004859789": {
+    "key": "permalink--f--ci13eu--nyu_aleph004859789",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 11:29:31 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph004859789.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph004859790": {
+    "key": "permalink--f--ci13eu--nyu_aleph004859790",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 11:29:32 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph004859790.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph004859792": {
+    "key": "permalink--f--ci13eu--nyu_aleph004859792",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 11:29:33 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph004859792.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph005079317": {
+    "key": "permalink--f--ci13eu--nyu_aleph005079317",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 11:43:37 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph005079317.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph005088777": {
+    "key": "permalink--f--ci13eu--nyu_aleph005088777",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 11:43:39 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph005088777.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph005098847": {
+    "key": "permalink--f--ci13eu--nyu_aleph005098847",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 11:51:42 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph005098847.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph006066270": {
+    "key": "permalink--f--ci13eu--nyu_aleph006066270",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/13/2023, 1:15:59 AM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph006066270.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph006222576": {
+    "key": "permalink--f--ci13eu--nyu_aleph006222576",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/13/2023, 1:44:06 AM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph006222576.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph006316792": {
+    "key": "permalink--f--ci13eu--nyu_aleph006316792",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/13/2023, 2:12:13 AM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph006316792.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph006558950": {
+    "key": "permalink--f--ci13eu--nyu_aleph006558950",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/13/2023, 2:40:20 AM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph006558950.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph006873277": {
+    "key": "permalink--f--ci13eu--nyu_aleph006873277",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/13/2023, 3:12:27 AM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph006873277.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph007493384": {
+    "key": "permalink--f--ci13eu--nyu_aleph007493384",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/13/2023, 4:26:43 AM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph007493384.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph007708531": {
+    "key": "permalink--f--ci13eu--nyu_aleph007708531",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/13/2023, 5:20:55 AM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph007708531.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph008005661": {
+    "key": "permalink--f--ci13eu--nyu_aleph008005661",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/13/2023, 5:30:58 AM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph008005661.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph008174863": {
+    "key": "permalink--f--ci13eu--nyu_aleph008174863",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/13/2023, 5:37:00 AM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph008174863.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph008870095": {
+    "key": "permalink--f--ci13eu--nyu_aleph008870095",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/13/2023, 5:49:04 AM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph008870095.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph009337135": {
+    "key": "permalink--f--ci13eu--nyu_aleph009337135",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/13/2023, 5:49:05 AM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph009337135.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph009555032": {
+    "key": "permalink--f--ci13eu--nyu_aleph009555032",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/13/2023, 5:49:07 AM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph009555032.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph009557733": {
+    "key": "permalink--f--ci13eu--nyu_aleph009557733",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/13/2023, 5:49:08 AM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph009557733.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph009599338": {
+    "key": "permalink--f--ci13eu--nyu_aleph009599338",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/13/2023, 5:49:09 AM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph009599338.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph009602666": {
+    "key": "permalink--f--ci13eu--nyu_aleph009602666",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/13/2023, 5:49:10 AM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph009602666.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph009608875": {
+    "key": "permalink--f--ci13eu--nyu_aleph009608875",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/13/2023, 5:49:11 AM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph009608875.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph009618920": {
+    "key": "permalink--f--ci13eu--nyu_aleph009618920",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/13/2023, 5:49:12 AM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph009618920.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph009642322": {
+    "key": "permalink--f--ci13eu--nyu_aleph009642322",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/13/2023, 5:49:13 AM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph009642322.html"
+    }
+  },
+  "/permalink/f/1bthiq5/nyu_aleph008869443": {
+    "key": "permalink--f--1bthiq5--nyu_aleph008869443",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 1:53:08 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1bthiq5--nyu_aleph008869443.html"
+    }
+  },
+  "/permalink/f/1c17uag/nyu_aleph003899521": {
+    "key": "permalink--f--1c17uag--nyu_aleph003899521",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 2:15:18 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1c17uag--nyu_aleph003899521.html"
+    }
+  },
+  "/permalink/f/1c17uag/nyu_aleph004144913": {
+    "key": "permalink--f--1c17uag--nyu_aleph004144913",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 2:21:22 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1c17uag--nyu_aleph004144913.html"
+    }
+  },
+  "/permalink/f/1c17uag/nyu_aleph004381778": {
+    "key": "permalink--f--1c17uag--nyu_aleph004381778",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 2:26:26 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1c17uag--nyu_aleph004381778.html"
+    }
+  },
+  "/permalink/f/1c17uag/nyu_aleph004470739": {
+    "key": "permalink--f--1c17uag--nyu_aleph004470739",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 2:26:27 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1c17uag--nyu_aleph004470739.html"
+    }
+  },
+  "/permalink/f/1c17uag/nyu_aleph004478374": {
+    "key": "permalink--f--1c17uag--nyu_aleph004478374",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 2:26:28 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1c17uag--nyu_aleph004478374.html"
+    }
+  },
+  "/permalink/f/1c17uag/nyu_aleph004858505": {
+    "key": "permalink--f--1c17uag--nyu_aleph004858505",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 2:49:39 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1c17uag--nyu_aleph004858505.html"
+    }
+  },
+  "/permalink/f/1c17uag/nyu_aleph004859720": {
+    "key": "permalink--f--1c17uag--nyu_aleph004859720",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 2:49:41 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1c17uag--nyu_aleph004859720.html"
+    }
+  },
+  "/permalink/f/1c17uag/nyu_aleph005744901": {
+    "key": "permalink--f--1c17uag--nyu_aleph005744901",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 3:28:57 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1c17uag--nyu_aleph005744901.html"
+    }
+  },
+  "/permalink/f/1c17uag/nyu_aleph005824739": {
+    "key": "permalink--f--1c17uag--nyu_aleph005824739",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 3:40:05 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1c17uag--nyu_aleph005824739.html"
+    }
+  },
+  "/permalink/f/1c17uag/nyu_aleph005919412": {
+    "key": "permalink--f--1c17uag--nyu_aleph005919412",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 3:45:08 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1c17uag--nyu_aleph005919412.html"
+    }
+  },
+  "/permalink/f/1c17uag/nyu_aleph006286255": {
+    "key": "permalink--f--1c17uag--nyu_aleph006286255",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 3:58:14 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1c17uag--nyu_aleph006286255.html"
+    }
+  },
+  "/permalink/f/1c17uag/nyu_aleph006859338": {
+    "key": "permalink--f--1c17uag--nyu_aleph006859338",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 4:43:34 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1c17uag--nyu_aleph006859338.html"
+    }
+  },
+  "/permalink/f/1c17uag/nyu_aleph006859340": {
+    "key": "permalink--f--1c17uag--nyu_aleph006859340",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 4:43:35 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1c17uag--nyu_aleph006859340.html"
+    }
+  },
+  "/permalink/f/1c17uag/nyu_aleph006879247": {
+    "key": "permalink--f--1c17uag--nyu_aleph006879247",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 4:43:36 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1c17uag--nyu_aleph006879247.html"
+    }
+  },
+  "/permalink/f/1c17uag/nyu_aleph006918886": {
+    "key": "permalink--f--1c17uag--nyu_aleph006918886",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 4:45:38 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1c17uag--nyu_aleph006918886.html"
+    }
+  },
+  "/permalink/f/1c17uag/nyu_aleph007383333": {
+    "key": "permalink--f--1c17uag--nyu_aleph007383333",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 4:56:44 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1c17uag--nyu_aleph007383333.html"
+    }
+  },
+  "/permalink/f/1c17uag/nyu_aleph007383419": {
+    "key": "permalink--f--1c17uag--nyu_aleph007383419",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 4:56:46 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1c17uag--nyu_aleph007383419.html"
+    }
+  },
+  "/permalink/f/1c17uag/nyu_aleph007383452": {
+    "key": "permalink--f--1c17uag--nyu_aleph007383452",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 4:56:47 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1c17uag--nyu_aleph007383452.html"
+    }
+  },
+  "/permalink/f/1c17uag/nyu_aleph007435001": {
+    "key": "permalink--f--1c17uag--nyu_aleph007435001",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 4:58:49 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1c17uag--nyu_aleph007435001.html"
+    }
+  },
+  "/permalink/f/1c17uag/nyu_aleph009517230": {
+    "key": "permalink--f--1c17uag--nyu_aleph009517230",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 5:10:56 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1c17uag--nyu_aleph009517230.html"
+    }
+  },
+  "/permalink/f/1e5f0e7/nyu_aleph003873503": {
+    "key": "permalink--f--1e5f0e7--nyu_aleph003873503",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 5:19:01 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1e5f0e7--nyu_aleph003873503.html"
+    }
+  },
+  "/permalink/f/1e5f0e7/nyu_aleph004485254": {
+    "key": "permalink--f--1e5f0e7--nyu_aleph004485254",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 5:22:03 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1e5f0e7--nyu_aleph004485254.html"
+    }
+  },
+  "/permalink/f/1e5f0e7/nyu_aleph004576950": {
+    "key": "permalink--f--1e5f0e7--nyu_aleph004576950",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 5:24:06 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1e5f0e7--nyu_aleph004576950.html"
+    }
+  },
+  "/permalink/f/1e5f0e7/nyu_aleph005098618": {
+    "key": "permalink--f--1e5f0e7--nyu_aleph005098618",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 5:31:10 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1e5f0e7--nyu_aleph005098618.html"
+    }
+  },
+  "/permalink/f/1e5f0e7/nyu_aleph005805095": {
+    "key": "permalink--f--1e5f0e7--nyu_aleph005805095",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 5:34:29 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1e5f0e7--nyu_aleph005805095.html"
+    }
+  },
+  "/permalink/f/1e5f0e7/nyu_aleph005929715": {
+    "key": "permalink--f--1e5f0e7--nyu_aleph005929715",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 5:37:31 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1e5f0e7--nyu_aleph005929715.html"
+    }
+  },
+  "/permalink/f/1e5f0e7/nyu_aleph005974226": {
+    "key": "permalink--f--1e5f0e7--nyu_aleph005974226",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 5:37:33 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1e5f0e7--nyu_aleph005974226.html"
+    }
+  },
+  "/permalink/f/1e5f0e7/nyu_aleph005974604": {
+    "key": "permalink--f--1e5f0e7--nyu_aleph005974604",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 5:37:34 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1e5f0e7--nyu_aleph005974604.html"
+    }
+  },
+  "/permalink/f/1e5f0e7/nyu_aleph007444915": {
+    "key": "permalink--f--1e5f0e7--nyu_aleph007444915",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 5:45:38 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1e5f0e7--nyu_aleph007444915.html"
+    }
+  },
+  "/permalink/f/1e5f0e7/nyu_aleph008932313": {
+    "key": "permalink--f--1e5f0e7--nyu_aleph008932313",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 5:54:43 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1e5f0e7--nyu_aleph008932313.html"
+    }
+  },
+  "/permalink/f/1e5f0e7/nyu_aleph009552137": {
+    "key": "permalink--f--1e5f0e7--nyu_aleph009552137",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 5:54:44 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1e5f0e7--nyu_aleph009552137.html"
+    }
+  },
+  "/permalink/f/1e5f0e7/nyu_aleph009552138": {
+    "key": "permalink--f--1e5f0e7--nyu_aleph009552138",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 5:54:45 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1e5f0e7--nyu_aleph009552138.html"
+    }
+  },
+  "/permalink/f/1e5f0e7/nyu_aleph009598917": {
+    "key": "permalink--f--1e5f0e7--nyu_aleph009598917",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 5:54:46 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1e5f0e7--nyu_aleph009598917.html"
+    }
+  },
+  "/permalink/f/1pdfnlu/nyu_aleph006561123": {
+    "key": "permalink--f--1pdfnlu--nyu_aleph006561123",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 6:02:50 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1pdfnlu--nyu_aleph006561123.html"
+    }
+  },
+  "/permalink/f/1pdfnlu/nyu_aleph007960267": {
+    "key": "permalink--f--1pdfnlu--nyu_aleph007960267",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 6:03:52 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1pdfnlu--nyu_aleph007960267.html"
+    }
+  },
+  "/permalink/f/1pdfnlu/nyu_aleph008728457": {
+    "key": "permalink--f--1pdfnlu--nyu_aleph008728457",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 6:03:53 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1pdfnlu--nyu_aleph008728457.html"
+    }
+  },
+  "/permalink/f/1pdfnlu/nyu_aleph009602544": {
+    "key": "permalink--f--1pdfnlu--nyu_aleph009602544",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 6:03:54 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1pdfnlu--nyu_aleph009602544.html"
+    }
+  },
+  "/permalink/f/1umpk5p/nyu_aleph009643561": {
+    "key": "permalink--f--1umpk5p--nyu_aleph009643561",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 6:44:10 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--1umpk5p--nyu_aleph009643561.html"
+    }
+  },
+  "/permalink/f/ci13eu/COURSES000364098": {
+    "key": "permalink--f--ci13eu--COURSES000364098",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 6:58:16 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--COURSES000364098.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph001489440": {
+    "key": "permalink--f--ci13eu--nyu_aleph001489440",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 7:15:24 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph001489440.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph001623519": {
+    "key": "permalink--f--ci13eu--nyu_aleph001623519",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 7:15:26 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph001623519.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph001710251": {
+    "key": "permalink--f--ci13eu--nyu_aleph001710251",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 7:15:28 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph001710251.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph003347834": {
+    "key": "permalink--f--ci13eu--nyu_aleph003347834",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 7:19:31 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph003347834.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph003539703": {
+    "key": "permalink--f--ci13eu--nyu_aleph003539703",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 7:21:34 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph003539703.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph003692671": {
+    "key": "permalink--f--ci13eu--nyu_aleph003692671",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 7:21:36 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph003692671.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph003894727": {
+    "key": "permalink--f--ci13eu--nyu_aleph003894727",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 7:44:47 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph003894727.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph004172588": {
+    "key": "permalink--f--ci13eu--nyu_aleph004172588",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/12/2023, 7:49:50 PM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph004172588.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph004515263": {
+    "key": "permalink--f--ci13eu--nyu_aleph004515263",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/13/2023, 9:54:07 AM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph004515263.html"
+    }
+  },
+  "/permalink/f/ci13eu/nyu_aleph007401711": {
+    "key": "permalink--f--ci13eu--nyu_aleph007401711",
+    "testCaseGroup": "libguides-failed-primo-ve",
+    "fetchTimestamp": "12/13/2023, 10:56:28 AM",
+    "sampleFiles": {
+      "bobcat-primo-classic": "libguides-failed-primo-ve/bobcat-primo-classic/permalink--f--ci13eu--nyu_aleph007401711.html"
+    }
+  }
+}
