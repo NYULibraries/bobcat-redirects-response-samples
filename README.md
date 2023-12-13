@@ -36,6 +36,8 @@ The permalink paths that failed in the "libguides" test case group were sampled 
 The initial sampling was done in 3 batches.  Causes of need for restart/resume not currently known.
 See "libguides" test case group explanation for why we split into multiple batches instead of resuming the sampling against the full test case group.
 
+After the first full pass through all test cases, there were 7 cases that were retried because the failure screenshots showed white screens of death which suggested that the 2 minute timeout was too short for those requests.  The timeout for the retry pass was 5 minutes.  Even with that extended timeout, 3 samples still failed.  All 3 URLs were tested manually and redirected to https://bobcatdev.library.nyu.edu/primo-explore/, which responds with a white screen with loading diamonds and no subsequent loading of content.  This is expected, since it appears that that endpoint requires at minimum, "search?vid=[VID]".
+
 The response sample HTML files, failure screenshots, and _index.json_ files
 were merged to appear as if a single batch or multiple batches in "resume" mode
 were run.
