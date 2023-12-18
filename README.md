@@ -43,3 +43,13 @@ were merged to appear as if a single batch or multiple batches in "resume" mode
 were run.
 
 * [bobcat\-redirects\-sampler](https://github.com/NYULibraries/bobcat-redirects-sampler) commit: [e5c2e128c8739fb78ade15f43aabdd6784480d30](https://github.com/NYULibraries/bobcat-redirects-sampler/tree/e5c2e128c8739fb78ade15f43aabdd6784480d30)
+
+## Test case group: libguides-succeedded-primo-ve
+
+The permalink paths that succeeded in the "libguides" test case group were sampled using https://bobcatdev.library.nyu.edu, which is not technically a `bobcat-redirects` instance, but in order to get the sample data quickly we treated it as such.
+
+This is the first test group using the new sampler code which records an entry for failures in the _index.json_ file in order to do a convenient resume of an interrupted batch.  Interruptions occurred for this sampling run due to dev BobCat outages caused by a ConEd power issue, and to a bug in the sampler where in the rare event of a playwright screenshot failure an uncaught runtime error terminated the sampling.  This sampler bug was fixed in the middle of this test case group job, which is why there is more than one commit associated with this sampling group.
+
+* [bobcat\-redirects\-sampler](https://github.com/NYULibraries/bobcat-redirects-sampler) commit(s):
+  * [500cc9149520216e153f5ac38cc27e80a72f41eb](https://github.com/NYULibraries/bobcat-redirects-sampler/tree/500cc9149520216e153f5ac38cc27e80a72f41eb)
+  * [dead13b5fce82816ab28d9037229a1770fe0049f](https://github.com/NYULibraries/bobcat-redirects-sampler/tree/dead13b5fce82816ab28d9037229a1770fe0049f)
