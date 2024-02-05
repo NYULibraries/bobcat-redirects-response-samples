@@ -37,7 +37,7 @@ were run.
 
 * [bobcat\-redirects\-sampler](https://github.com/NYULibraries/bobcat-redirects-sampler) commit: [e5c2e128c8739fb78ade15f43aabdd6784480d30](https://github.com/NYULibraries/bobcat-redirects-sampler/tree/e5c2e128c8739fb78ade15f43aabdd6784480d30)
 
-## Test case group: libguides-succeedded-primo-ve
+## Test case group: libguides-succeeded-primo-ve
 
 The permalink paths that succeeded in the "libguides" test case group were sampled using https://bobcatdev.library.nyu.edu, which is not technically a `bobcat-redirects` instance, but in order to get the sample data quickly we treated it as such.
 
